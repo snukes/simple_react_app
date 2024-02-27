@@ -13,6 +13,10 @@ const Navbar = () => {
         <Link href='/about' data-testid="about-link">
           About
         </Link>
+
+        <Link href='/books' data-testid="book-link">
+          Books
+        </Link>
       </nav>
     </div>
   )
